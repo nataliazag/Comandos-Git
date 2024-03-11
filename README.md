@@ -14,4 +14,4 @@ Olá!!!! Hoje, vou conduzir uma pesquisa sobre Comandos-Git. Logo abaixo irei mo
 
 <br> `Comando 5🎶`  --> Listar Funcionalidade - `Texto grifado` ( use o acentento ` ) 
 
-<br>`Comando 6👀`  --> Emoji  `use : e o nome em ingls do emoji escolido
+<br>`Comando 6👀`  --> Emoji  `use e o nome em ingls do emoji escolido`
